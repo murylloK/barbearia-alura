@@ -1,0 +1,11 @@
+body { 
+text-align: center;
+background-color: aquamarine;
+}
+
+strong{
+color: chartreuse;
+}
+.banner{
+    width: 50%;
+}
